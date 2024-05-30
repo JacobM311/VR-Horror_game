@@ -1,4 +1,4 @@
-# VR ALIEN HORROR GAMEEEE
+# VR ALIEN HORROR GAME
 
 ## Project Overview
 This is a bit of a passion project that I've wanted to create for awhile, the goal of this project is to create a game with space physics and a cool interactive AI. Currently I have 1 system implemented for the AI that creates a light detection system using RGB values projected onto a render texture.
